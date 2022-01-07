@@ -3,7 +3,7 @@
 ## Summary
 The Atrium Sponza Palace scene is widely used by graphics programmers and artists. It provides with an ideal lighting test environment, as it features both indoor and outdoor areas. The goal of the HDRP conversion was to modernize the project in key areas, making it compliant to modern rendering standards.
 
-This project project - among many othery - was used extensively when testing Progressive CPU and GPU Lightmappers available in Unity.
+This project project - among many others - was used extensively when testing Progressive CPU and GPU Lightmappers available in Unity.
 ### Features
 - Full compatibility with Unity's High Definition Render Pipeline (HDRP)
 - PBR-compliant materials and textures
@@ -17,7 +17,7 @@ This project makes use of multi-scene workflow. In order to make sure that every
 3. Once it finishes loading, right-click on the _SponzaLightingDay_ scene and select the _Open Scene Additive_ option
 4. In the _Hierarchy_ panel, right-click on the _SponzaLightingDay_ scene, and select the _Set Active Scene_ option
 
-Note that the initial shader compilation stage might take some time. There is a chance that nothing might be visible in the viewport prior to its completion.
+Note that the initial shader compilation stage might take some time. There is a chance that nothing might be visible in the viewport before its completion.
 ## Credits
 - Original Sponza model acquired from [McGuire Computer Graphics Archive](https://casual-effects.com/data/)
 - HDRI acquired from [NoEmotion HDRs](http://noemotionhdrs.net/)
