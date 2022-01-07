@@ -5,7 +5,7 @@ The Atrium Sponza Palace scene is widely used by graphics programmers and artist
 
 The goal of the HDRP conversion was to modernize the project in key areas, making it compliant with modern rendering standards.
 
-This project project - among many others - was used extensively when testing Progressive CPU and GPU Lightmappers available in Unity.
+This project - among many others - was used extensively when testing the Progressive Lightmapper.
 ### Features
 - Full compatibility with Unity's High Definition Render Pipeline (HDRP)
 - PBR-compliant materials and textures
