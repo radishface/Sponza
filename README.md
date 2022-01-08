@@ -5,13 +5,13 @@ The Atrium Sponza Palace scene is widely used by graphics programmers and artist
 
 The goal of the HDRP conversion was to modernize the project in key areas, making it compliant with modern rendering standards.
 
-Verified in Unity 2020.3.25f1, using HDRP version 10.7.0.
+Verified in Unity 2020.3.25f1, using HDRP version 10.7.0. Please refer to the [Tags](https://github.com/radishface/Sponza-HDRP/tags) page for Unity editor version compatibility.
 ### Features
 - Full compatibility with Unity's High Definition Render Pipeline (HDRP)
-- PBR-compliant materials and textures
+- All textures and materials are PBR-compliant
 - Physical lighting and exposure
 - Manually authored lightmap UVs
-- Source textures and models are included
+- Baked global illumination using the Progressive Lightmapper
 ## Setup
 This project makes use of multi-scene workflow. In order to make sure that everything works as expected, please follow these steps:
 1. In the _Project_ tab, navigate to Assets > SponzaHDRP > Scenes
@@ -23,4 +23,4 @@ Note that the initial shader compilation stage might take some time. There is a 
 ## Credits
 - Original Sponza model acquired from [McGuire Computer Graphics Archive](https://casual-effects.com/data/)
 - HDRI acquired from [NoEmotion HDRs](http://noemotionhdrs.net/)
-- Special thanks to Kemal Akay and Laurent Harduin with the initial project setup
+- Special thanks to [Kemal Akay](https://github.com/kemalakay) and [Laurent Harduin](https://github.com/laurenth-personal) for their assistance with the initial project setup
