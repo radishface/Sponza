@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 2578.4067, g: 3626.2065, b: 5641.8965, a: 1}
+  m_IndirectSpecularColor: {r: 2672.2837, g: 3793.3508, b: 5727.3096, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -97,7 +97,7 @@ LightmapSettings:
     m_ExportTrainingData: 0
     m_TrainingDataDestination: TrainingData
     m_LightProbeSampleCountMultiplier: 8
-  m_LightingDataAsset: {fileID: 112000002, guid: 8122e24229e02884db01eca1cb908d21,
+  m_LightingDataAsset: {fileID: 112000002, guid: 0f5e10feb01cf98448efa4e23d0c8130,
     type: 2}
   m_LightingSettings: {fileID: 4890085278179872738, guid: 2e8923eba7d23784c9bd141e38f3a70a,
     type: 2}
@@ -728,7 +728,7 @@ MonoBehaviour:
     camera:
       camera: 0
   m_ProxyVolume: {fileID: 0}
-  m_BakedTexture: {fileID: 8900000, guid: f437a605cf9372443a81a3a80d7ae49d, type: 3}
+  m_BakedTexture: {fileID: 8900000, guid: e2253f2d553b8dc47acb87a51991bc63, type: 3}
   m_CustomTexture: {fileID: 0}
   m_BakedRenderData:
     m_WorldToCameraRHS:
@@ -2117,7 +2117,7 @@ MonoBehaviour:
     camera:
       camera: 0
   m_ProxyVolume: {fileID: 0}
-  m_BakedTexture: {fileID: 8900000, guid: d0144e0dd8b6cea4087f95ab53545208, type: 3}
+  m_BakedTexture: {fileID: 8900000, guid: 71cd1b1e920cec943950cc26cf3740e0, type: 3}
   m_CustomTexture: {fileID: 0}
   m_BakedRenderData:
     m_WorldToCameraRHS:
@@ -2598,7 +2598,7 @@ MonoBehaviour:
     camera:
       camera: 0
   m_ProxyVolume: {fileID: 987584266}
-  m_BakedTexture: {fileID: 8900000, guid: c14f735a5ffb22d40b54d2499beaa27f, type: 3}
+  m_BakedTexture: {fileID: 8900000, guid: fc01437b13b58a54a8b4c5c65087860b, type: 3}
   m_CustomTexture: {fileID: 0}
   m_BakedRenderData:
     m_WorldToCameraRHS:
@@ -3302,7 +3302,7 @@ MonoBehaviour:
     camera:
       camera: 0
   m_ProxyVolume: {fileID: 0}
-  m_BakedTexture: {fileID: 8900000, guid: 980d85816b5d48d489bc9b8e6fde89aa, type: 3}
+  m_BakedTexture: {fileID: 8900000, guid: d754586a741f9b44c9c457bc8ad8390e, type: 3}
   m_CustomTexture: {fileID: 0}
   m_BakedRenderData:
     m_WorldToCameraRHS:
@@ -3787,7 +3787,7 @@ MonoBehaviour:
     camera:
       camera: 0
   m_ProxyVolume: {fileID: 0}
-  m_BakedTexture: {fileID: 8900000, guid: 61c9f90356be1cf4e81358aa100556fc, type: 3}
+  m_BakedTexture: {fileID: 8900000, guid: 34d450609093d2849a233a299c91cc30, type: 3}
   m_CustomTexture: {fileID: 0}
   m_BakedRenderData:
     m_WorldToCameraRHS:
@@ -4255,7 +4255,7 @@ MonoBehaviour:
     camera:
       camera: 0
   m_ProxyVolume: {fileID: 0}
-  m_BakedTexture: {fileID: 8900000, guid: 882a0524343edef4caac8fc7043e7d38, type: 3}
+  m_BakedTexture: {fileID: 8900000, guid: 635ad9ab2be0129429c734f87dfe7b1d, type: 3}
   m_CustomTexture: {fileID: 0}
   m_BakedRenderData:
     m_WorldToCameraRHS:
@@ -4677,7 +4677,7 @@ MonoBehaviour:
     camera:
       camera: 0
   m_ProxyVolume: {fileID: 0}
-  m_BakedTexture: {fileID: 8900000, guid: c147ea9d59f196f438d4c599e1325888, type: 3}
+  m_BakedTexture: {fileID: 8900000, guid: e2f2c90398ed19a49a61efa33d43ec47, type: 3}
   m_CustomTexture: {fileID: 0}
   m_BakedRenderData:
     m_WorldToCameraRHS:
@@ -5127,7 +5127,7 @@ MonoBehaviour:
     camera:
       camera: 0
   m_ProxyVolume: {fileID: 987584266}
-  m_BakedTexture: {fileID: 8900000, guid: ede9618a3206eb448a75c6128e69dff9, type: 3}
+  m_BakedTexture: {fileID: 8900000, guid: 17d231f67d3d35b4a898f5a1f552d785, type: 3}
   m_CustomTexture: {fileID: 0}
   m_BakedRenderData:
     m_WorldToCameraRHS:
@@ -5565,7 +5565,7 @@ MonoBehaviour:
     camera:
       camera: 0
   m_ProxyVolume: {fileID: 0}
-  m_BakedTexture: {fileID: 8900000, guid: 4431b3a7fe26dfb44850d019f027cd42, type: 3}
+  m_BakedTexture: {fileID: 8900000, guid: 33777fd760b9b6c4ea611352afcc8ae9, type: 3}
   m_CustomTexture: {fileID: 0}
   m_BakedRenderData:
     m_WorldToCameraRHS:
@@ -6050,7 +6050,7 @@ MonoBehaviour:
     camera:
       camera: 0
   m_ProxyVolume: {fileID: 987584266}
-  m_BakedTexture: {fileID: 8900000, guid: 8b446aa09ddcd914a85a35a464d88644, type: 3}
+  m_BakedTexture: {fileID: 8900000, guid: f27053b78ef1df3469cc2ff748931101, type: 3}
   m_CustomTexture: {fileID: 0}
   m_BakedRenderData:
     m_WorldToCameraRHS:
@@ -7112,7 +7112,7 @@ MonoBehaviour:
     camera:
       camera: 0
   m_ProxyVolume: {fileID: 0}
-  m_BakedTexture: {fileID: 8900000, guid: 4cd17a0cf409bf94d8cae11301047976, type: 3}
+  m_BakedTexture: {fileID: 8900000, guid: 9435c64212ea4944bab2f97ec8cb29ab, type: 3}
   m_CustomTexture: {fileID: 0}
   m_BakedRenderData:
     m_WorldToCameraRHS:
@@ -7536,7 +7536,7 @@ MonoBehaviour:
     camera:
       camera: 0
   m_ProxyVolume: {fileID: 0}
-  m_BakedTexture: {fileID: 8900000, guid: 7de3257f95f6de04e9cd499013f84582, type: 3}
+  m_BakedTexture: {fileID: 8900000, guid: ff9e7b2f562503b4c8d56dc3bbda121d, type: 3}
   m_CustomTexture: {fileID: 0}
   m_BakedRenderData:
     m_WorldToCameraRHS:
@@ -8037,7 +8037,7 @@ MonoBehaviour:
     camera:
       camera: 0
   m_ProxyVolume: {fileID: 0}
-  m_BakedTexture: {fileID: 8900000, guid: 874571ba06c4fbe48b7cf90924d8b473, type: 3}
+  m_BakedTexture: {fileID: 8900000, guid: 8a40ca1822c70f64dac417f1e02c965f, type: 3}
   m_CustomTexture: {fileID: 0}
   m_BakedRenderData:
     m_WorldToCameraRHS:
@@ -8522,7 +8522,7 @@ MonoBehaviour:
     camera:
       camera: 0
   m_ProxyVolume: {fileID: 0}
-  m_BakedTexture: {fileID: 8900000, guid: cdba661567dacce48b642bf93afef543, type: 3}
+  m_BakedTexture: {fileID: 8900000, guid: c49f95ffb1c32d74abf66d327b0efe17, type: 3}
   m_CustomTexture: {fileID: 0}
   m_BakedRenderData:
     m_WorldToCameraRHS:
@@ -8944,7 +8944,7 @@ MonoBehaviour:
     camera:
       camera: 0
   m_ProxyVolume: {fileID: 0}
-  m_BakedTexture: {fileID: 8900000, guid: da7be3cf0eab54340afe0a3bb832c4a5, type: 3}
+  m_BakedTexture: {fileID: 8900000, guid: bbd0435ed68490a4499a62bb3ba0d2a0, type: 3}
   m_CustomTexture: {fileID: 0}
   m_BakedRenderData:
     m_WorldToCameraRHS:
@@ -9394,7 +9394,7 @@ MonoBehaviour:
     camera:
       camera: 0
   m_ProxyVolume: {fileID: 987584266}
-  m_BakedTexture: {fileID: 8900000, guid: c94f98db2d8f25c499edad23fe3b6230, type: 3}
+  m_BakedTexture: {fileID: 8900000, guid: 0bed4ff2bc1247a43b7ac829973a9653, type: 3}
   m_CustomTexture: {fileID: 0}
   m_BakedRenderData:
     m_WorldToCameraRHS:
