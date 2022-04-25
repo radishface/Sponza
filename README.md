@@ -13,6 +13,16 @@ Please refer to the [Releases](https://github.com/radishface/Sponza-HDRP/release
 - Manually authored lightmap UVs
 - Baked global illumination using the Progressive Lightmapper
 ## Setup
+### Cloning the project
+#### Important note
+This project makes use of [Git Large Files Support (LFS)](https://git-lfs.github.com). You need to install LFS on your local machine first. **Do not download the project via the Download ZIP option.** Once you have installed LFS, please follow the steps outlined below.
+#### Using the GitHub Desktop client
+Click on the green Code button at the top, and select *Open in Desktop option*.
+#### Using alternative git clients
+Paste the following web URL into your preffered git client: `https://github.com/radishface/Sponza.git`.
+#### Using command line or terminal
+Open your preferred command line application and enter the following command: `git clone https://github.com/radishface/Sponza.git`.
+### Setting up the project in Unity
 This project makes use of multi-scene workflow. In order to make sure that everything works as expected, please follow these steps:
 1. In the _Project_ tab, navigate to Assets > SponzaHDRP > Scenes
 2. Open _Sponza_ scene
