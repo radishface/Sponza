@@ -1,17 +1,27 @@
 # Sponza
 ![Sponza-HDRP-1](https://user-images.githubusercontent.com/1553981/148616553-2a1a0cde-470b-40df-af91-5dd4efcd19dd.jpg)
+
+## Notice
+
+**This repository will no longer be updated, and will be removed in the future**.
+
+Please visit the [Classic Sponza](https://github.com/Unity-Technologies/Classic-Sponza) repository on Unity GitHub for latest updates.
+
 ## Summary
+
 The Atrium Sponza Palace scene is widely used by graphics programmers and artists. It provides with an ideal lighting test environment, as it features both indoor and outdoor areas. 
 
 The goal of the HDRP conversion was to modernize the project in key areas, making it compliant with modern rendering standards.
 
 Please refer to the [Releases](https://github.com/radishface/Sponza-HDRP/releases) page for Unity editor version compatibility.
+
 ### Features
 - Full compatibility with Unity's High Definition Render Pipeline (HDRP)
 - All textures and materials are PBR-compliant
 - Physical lighting and exposure
 - Manually authored lightmap UVs
 - Baked global illumination using the Progressive Lightmapper
+
 ## Setup
 ### Cloning the project
 #### Important note
